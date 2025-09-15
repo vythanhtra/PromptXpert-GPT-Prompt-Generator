@@ -13,6 +13,13 @@ data = pd.DataFrame([
     {"industry": "Marketing", "objective": "Tăng chuyển đổi", "state": "Ra quyết định", "framework": "PAS"},
     {"industry": "Công nghệ", "objective": "Trình bày lợi ích", "state": "Cân nhắc", "framework": "FAB"},
     {"industry": "Bất động sản", "objective": "Gây chú ý", "state": "Nhận biết", "framework": "AIDA"},
+    # Dữ liệu mở rộng cho doanh nghiệp PPP quy mô lớn cấp quốc tế
+    {"industry": "Hạ tầng giao thông quốc tế", "objective": "Kêu gọi vốn quốc tế", "state": "Cân nhắc", "framework": "AIDA"},
+    {"industry": "Năng lượng tái tạo toàn cầu", "objective": "Tìm đối tác PPP", "state": "Ra quyết định", "framework": "FAB"},
+    {"industry": "Viễn thông", "objective": "Đấu thầu PPP", "state": "Nhận biết", "framework": "PAS"},
+    {"industry": "Nước sạch & môi trường", "objective": "Thu hút đầu tư", "state": "Ra quyết định", "framework": "CARE"},
+    {"industry": "Y tế quốc tế", "objective": "Hợp tác công tư", "state": "Cân nhắc", "framework": "Before–After–Bridge"},
+    {"industry": "Logistics & cảng biển", "objective": "Mở rộng dịch vụ", "state": "Ra quyết định", "framework": "FAB"},
 ])
 
 # Vector hóa dữ liệu
