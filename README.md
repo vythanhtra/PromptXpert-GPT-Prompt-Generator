@@ -17,3 +17,8 @@ AI Web App giúp bạn tạo prompt GPT chất lượng cao chỉ với 1 click 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
+
+Sau khi chạy lệnh trên, truy cập `http://localhost:8501` trên trình duyệt để sử dụng ứng dụng.
+
+Bạn có thể mở rộng dataset trong `app.py` để phù hợp với nhu cầu doanh nghiệp.
