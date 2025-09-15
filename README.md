@@ -22,3 +22,12 @@ streamlit run app.py
 Sau khi chạy lệnh trên, truy cập `http://localhost:8501` trên trình duyệt để sử dụng ứng dụng.
 
 Bạn có thể mở rộng dataset trong `app.py` để phù hợp với nhu cầu doanh nghiệp.
+
+## 🏗️ PPP Financial Model Dashboard
+Ứng dụng web tương tác mô phỏng dòng tiền và các chỉ số NPV, IRR, DSCR cho dự án PPP.
+
+### Chạy mô hình
+```bash
+streamlit run ppp_app.py
+```
+Sau khi chạy, mở trình duyệt tới `http://localhost:8501` để xem dashboard và xuất báo cáo Excel.
