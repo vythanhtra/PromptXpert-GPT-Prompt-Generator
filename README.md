@@ -21,7 +21,7 @@ streamlit run app.py
 
 Sau khi chạy lệnh trên, truy cập `http://localhost:8501` trên trình duyệt để sử dụng ứng dụng.
 
-Bạn có thể mở rộng dataset trong `app.py` để phù hợp với nhu cầu doanh nghiệp.
+Dataset trong `app.py` đã được mở rộng với các ngành PPP quy mô quốc tế (hạ tầng, năng lượng, viễn thông...), giúp doanh nghiệp lớn dễ dàng tùy biến thêm theo nhu cầu.
 
 ## 🏗️ PPP Financial Model Dashboard
 Ứng dụng web tương tác mô phỏng dòng tiền và các chỉ số NPV, IRR, DSCR cho dự án PPP.
